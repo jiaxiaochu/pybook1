@@ -1,0 +1,6 @@
+print(1>2)
+print(1<2)
+print("Nice" == "Nice")
+print("Nice" != "nice")
+print(1>=2)
+print(1<=2)
